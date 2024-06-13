@@ -1,0 +1,48 @@
+#216.239.38.120 www.google.com #forcesafesearch
+#216.239.38.120 /^google\.(com|kz|ru)$/ #forcesafesearch
+#216.239.38.120 www.google.ru #forcesafesearch
+#216.239.38.120 google.ru #forcesafesearch
+
+#ALL GOOGLE SUPPORTED DOMAINS
+216.239.38.120 google.com google.ad google.ae google.com.af google.com.ag google.al google.am google.co.ao google.com.ar google.as google.at google.com.au google.az google.ba google.com.bd google.be google.bf google.bg google.com.bh google.bi google.bj google.com.bn google.com.bo google.com.br google.bs google.bt google.co.bw google.by google.com.bz google.ca google.cd google.cf google.cg google.ch google.ci google.co.ck google.cl google.cm google.cn google.com.co google.co.cr google.com.cu google.cv google.com.cy google.cz google.de google.dj google.dk google.dm google.com.do google.dz google.com.ec google.ee google.com.eg google.es google.com.et google.fi google.com.fj google.fm google.fr google.ga google.ge google.gg google.com.gh google.com.gi google.gl google.gm google.gr google.com.gt google.gy google.com.hk google.hn google.hr google.ht google.hu google.co.id google.ie google.co.il google.im google.co.in google.iq google.is google.it google.je google.com.jm google.jo google.co.jp google.co.ke google.com.kh google.ki google.kg google.co.kr google.com.kw google.kz google.la google.com.lb google.li google.lk google.co.ls google.lt google.lu google.lv google.com.ly google.co.ma google.md google.me google.mg google.mk google.ml google.com.mm google.mn google.com.mt google.mu google.mv google.mw google.com.mx google.com.my google.co.mz google.com.na google.com.ng google.com.ni google.ne google.nl google.no google.com.np google.nr google.nu google.co.nz google.com.om google.com.pa google.com.pe google.com.pg google.com.ph google.com.pk google.pl google.pn google.com.pr google.ps google.pt google.com.py google.com.qa google.ro google.ru google.rw google.com.sa google.com.sb google.sc google.se google.com.sg google.sh google.si google.sk google.com.sl google.sn google.so google.sm google.sr google.st google.com.sv google.td google.tg google.co.th google.com.tj google.tl google.tm google.tn google.to google.com.tr google.tt google.com.tw google.co.tz google.com.ua google.co.ug google.co.uk google.com.uy google.co.uz google.com.vc google.co.ve google.co.vi google.com.vn google.vu google.ws google.rs google.co.za google.co.zm google.co.zw google.cat 
+
+216.239.38.120 www.google.com www.google.ad www.google.ae www.google.com.af www.google.com.ag www.google.al www.google.am www.google.co.ao www.google.com.ar www.google.as www.google.at www.google.com.au www.google.az www.google.ba www.google.com.bd www.google.be www.google.bf www.google.bg www.google.com.bh www.google.bi www.google.bj www.google.com.bn www.google.com.bo www.google.com.br www.google.bs www.google.bt www.google.co.bw www.google.by www.google.com.bz www.google.ca www.google.cd www.google.cf www.google.cg www.google.ch www.google.ci www.google.co.ck www.google.cl www.google.cm www.google.cn www.google.com.co www.google.co.cr www.google.com.cu www.google.cv www.google.com.cy www.google.cz www.google.de www.google.dj www.google.dk www.google.dm www.google.com.do www.google.dz www.google.com.ec www.google.ee www.google.com.eg www.google.es www.google.com.et www.google.fi www.google.com.fj www.google.fm www.google.fr www.google.ga www.google.ge www.google.gg www.google.com.gh www.google.com.gi www.google.gl www.google.gm www.google.gr www.google.com.gt www.google.gy www.google.com.hk www.google.hn www.google.hr www.google.ht www.google.hu www.google.co.id www.google.ie www.google.co.il www.google.im www.google.co.in www.google.iq www.google.is www.google.it www.google.je www.google.com.jm www.google.jo www.google.co.jp www.google.co.ke www.google.com.kh www.google.ki www.google.kg www.google.co.kr www.google.com.kw www.google.kz www.google.la www.google.com.lb www.google.li www.google.lk www.google.co.ls www.google.lt www.google.lu www.google.lv www.google.com.ly www.google.co.ma www.google.md www.google.me www.google.mg www.google.mk www.google.ml www.google.com.mm www.google.mn www.google.com.mt www.google.mu www.google.mv www.google.mw www.google.com.mx www.google.com.my www.google.co.mz www.google.com.na www.google.com.ng www.google.com.ni www.google.ne www.google.nl www.google.no www.google.com.np www.google.nr www.google.nu www.google.co.nz www.google.com.om www.google.com.pa www.google.com.pe www.google.com.pg www.google.com.ph www.google.com.pk www.google.pl www.google.pn www.google.com.pr www.google.ps www.google.pt www.google.com.py www.google.com.qa www.google.ro www.google.ru www.google.rw www.google.com.sa www.google.com.sb www.google.sc www.google.se www.google.com.sg www.google.sh www.google.si www.google.sk www.google.com.sl www.google.sn www.google.so www.google.sm www.google.sr www.google.st www.google.com.sv www.google.td www.google.tg www.google.co.th www.google.com.tj www.google.tl www.google.tm www.google.tn www.google.to www.google.com.tr www.google.tt www.google.com.tw www.google.co.tz www.google.com.ua www.google.co.ug www.google.co.uk www.google.com.uy www.google.co.uz www.google.com.vc www.google.co.ve www.google.co.vi www.google.com.vn www.google.vu www.google.ws www.google.rs www.google.co.za www.google.co.zm www.google.co.zw www.google.cat 
+
+#--------------------------------------------------------------------------------------------------------------GOOGLE
+
+
+#ютуб
+#(Строгий YouTube)
+216.239.38.120 youtube.com www.youtube.com m.youtube.com youtubei.googleapis.com youtube.googleapis.com youtube-nocookie.com www.youtube-nocookie.com
+
+#(менее строгий Ютуб) 
+#216.239.38.119 youtube.com www.youtube.com m.youtube.com youtubei.googleapis.com youtube.googleapis.com youtube-nocookie.com www.youtube-nocookie.com
+#
+#
+216.239.38.120 googlevideo.com video.google.com video.l.google.com wide-youtube.l.google.com youtu.be youtube.ae youtube.al youtube.am youtube.at youtube.az youtube.ba youtube.be youtube.bg youtube.bh youtube.bo youtube.by youtube.ca youtube.cat youtube.ch youtube.cl youtube.co youtube.co.ae youtube.co.at youtube.co.cr youtube.co.hu youtube.co.id youtube.co.il youtube.co.in youtube.co.jp youtube.co.ke youtube.co.kr youtube.com youtube.co.ma youtube.com.ar youtube.com.au youtube.com.az youtube.com.bd youtube.com.bh youtube.com.bo youtube.com.br youtube.com.by youtube.com.co youtube.com.do youtube.com.ec youtube.com.ee youtube.com.eg youtube.com.es youtube.com.gh youtube.com.gr youtube.com.gt youtube.com.hk youtube.com.hn youtube.com.hr youtube.com.jm youtube.com.jo youtube.com.kw youtube.com.lb youtube.com.lv youtube.com.ly youtube.com.mk youtube.com.mt youtube.com.mx youtube.com.my youtube.com.ng youtube.com.ni youtube.com.om youtube.com.pa youtube.com.pe youtube.com.ph youtube.com.pk youtube.com.pt youtube.com.py youtube.com.qa youtube.com.ro youtube.com.sa youtube.com.sg youtube.com.sv youtube.com.tn youtube.com.tr youtube.com.tw youtube.com.ua youtube.com.uy youtube.com.ve youtube.co.nz youtube.co.th youtube.co.tz youtube.co.ug youtube.co.uk youtube.co.ve youtube.co.za youtube.co.zw youtube.cr youtube.cz youtube.de youtube.dk youtubeeducation.com youtube.ee youtubeembeddedplayer.googleapis.com youtube.es youtube.fi youtube.fr youtube.ge youtube.googleapis.com youtube.gr youtube.gt youtube.hk youtube.hr youtube.hu youtube.ie youtubei.googleapis.com youtube.in youtube.iq youtube.is youtube.it youtube.jo youtube.jp youtubekids.com youtube.kr youtube.kz youtube.la youtube.lk youtube.lt youtube.lu youtube.lv youtube.ly youtube.ma youtube.md youtube.me youtube.mk youtube.mn youtube.mx youtube.my youtube.ng youtube.ni youtube.nl youtube.no youtube-nocookie.com youtube.pa youtube.pe youtube.ph youtube.pk youtube.pl youtube.pr youtube.pt youtube.qa youtube.ro youtube.rs youtube.ru youtube.sa youtube.se youtube.sg youtube.si youtube.sk youtube.sn youtube.soy youtube.sv youtube.tn youtube.tv youtube.ua youtube.ug youtube-ui.l.google.com youtube.uy youtube.vn yt3.ggpht.com yt.be ytimg.com ytimg.l.google.com ytkids.app.goo.gl yt-video-upload.l.google.com 
+
+#яндекс
+213.180.193.56 www.yandex.ru #family
+213.180.193.56 yandex.ru #family
+213.180.193.56 www.ya.ru #family
+213.180.193.56 ya.ru #family
+
+213.180.193.56 ya.kz www.yandex.kz
+213.180.193.56 yandex.kz www.yandex.kz
+#Маил и Рамблер
+94.100.180.61 www.mail.ru #account.mail.ru
+94.100.180.61 mail.ru #account.mail.ru
+94.100.180.61 go.mail.ru www.go.mail.ru
+94.100.180.61 news.mail.ru www.news.mail.ru kino.mail.ru www.kino.mail.ru
+94.100.180.61 lady.mail.ru www.lady.mail.ru
+81.19.78.84 www.rambler.ru #mail.rambler.ru
+81.19.78.84 rambler.ru #mail.rambler.ru
+81.19.78.84 r0.ru www.r0.ru
+81.19.78.84 images.rambler.ru www.images.rambler.ru kino.rambler.ru www.kino.rambler.ru
+
+#другие поисковики
+204.79.197.220 bing.com www.bing.com #+
+#safe.duckduckgo.com duckduckgo.com
+40.114.177.246 duckduckgo.com
+#46.137.218.113 duckduckgo.com www.duckduckgo.com #Не доступен
+#216.239.38.120 search.yahoo.com yahoo.com www.yahoo.com
